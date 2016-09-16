@@ -1,1 +1,1 @@
-![dj](https://github.com/jeffrey990macharia0/MyStack_demos/blob/master/assets/django.png) Javascript Demos
+![js](https://github.com/jeffrey990macharia0/MyStack_demos/blob/master/assets/js.png)     Javascript Demos
