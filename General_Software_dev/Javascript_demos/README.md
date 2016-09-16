@@ -1,1 +1,1 @@
-[[https://github.com/jeffrey990macharia0/MyStack_demos/tree/master/assets/django.png|alt=JS]]
+[[https://github.com/jeffrey990macharia0/MyStack_demos/blob/master/assets/django.png|alt=JS]]
