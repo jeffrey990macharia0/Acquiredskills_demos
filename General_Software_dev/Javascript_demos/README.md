@@ -1,1 +1,1 @@
-![alt tag](https://raw.githubusercontent.com/jeffrey990macharia0/MyStack_demos/master/assets/javascript/firebase.png)
+[[https://github.com/jeffrey990macharia0/MyStack_demos/tree/master/assets/django.png|alt=JS]]
